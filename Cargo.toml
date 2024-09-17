@@ -1,0 +1,7 @@
+[package]
+name = "atomicwrites-zfs-repro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+atomicwrites = "0.4.3"
